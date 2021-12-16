@@ -51,4 +51,4 @@ client.on('ready', async () => {
     }, 4000)
 })
 
-client.login('ODg0NTc2NTQ2ODg5ODIyMjA4.YTagGw.qPt9xPpQeq8ut0xkY3LTjZm3p4k')
+client.login('токен вашего бота')
